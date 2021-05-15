@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcService\\SampleGrpcService.csproj",
+      "projectUniqueName": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcService\\SampleGrpcService.csproj",
       "projectName": "SampleGrpcService",
-      "projectPath": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcService\\SampleGrpcService.csproj",
+      "projectPath": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcService\\SampleGrpcService.csproj",
       "packagesPath": "C:\\Users\\rishabh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcService\\obj\\",
+      "outputPath": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj": {}
+    "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj": {
+    "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj",
+        "projectUniqueName": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj",
         "projectName": "SampleGrpcClient",
-        "projectPath": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj",
+        "projectPath": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcClient\\SampleGrpcClient.csproj",
         "packagesPath": "C:\\Users\\rishabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rishabh\\source\\repos\\SampleGrpcService\\SampleGrpcClient\\obj\\",
+        "outputPath": "C:\\Repository\\Youtube\\SampleGrpcService\\SampleGrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
