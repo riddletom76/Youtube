@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "SampleGrpcService.Protos";
+
+package classroom;
+
+message Student {
+	int32 RollNo = 1;
+	string Name = 2;
+	string EmailId = 3;
+}
+
+message Class {
+	repeated Student Students = 1;
+}
+
+message StudentRequest {
+	int32 RollNo = 1;
+}
+
+service ClassRoom {
+	rpc GetStudentInformation(StudentRequest) returns (Student);
+}

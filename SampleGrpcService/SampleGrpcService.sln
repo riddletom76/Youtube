@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGrpcService", "SampleGrpcService\SampleGrpcService.csproj", "{DEE409D0-14F0-48FE-99F4-8C9450F840BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleGrpcService", "SampleGrpcService\SampleGrpcService.csproj", "{DEE409D0-14F0-48FE-99F4-8C9450F840BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGrpcClient", "SampleGrpcClient\SampleGrpcClient.csproj", "{07695CE0-3DC4-4A29-8D74-58464A862D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleGrpcClient", "SampleGrpcClient\SampleGrpcClient.csproj", "{07695CE0-3DC4-4A29-8D74-58464A862D2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
