@@ -1,0 +1,2 @@
+obj/Debug/net5.0/ClassRoom.cs \
+obj/Debug/net5.0/ClassRoomGrpc.cs: Protos/classRoom.proto

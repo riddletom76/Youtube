@@ -25,5 +25,13 @@ namespace SampleGrpcService.Services
         {
             return Task.FromResult(students.Where(x => x.RollNo == request.RollNo).SingleOrDefault());
         }
+
+        public override Task<AllStudents> GetAllStudents(GetAllStudentsRequest request, ServerCallContext context){
+            AllStudents allStudents = new AllStudents();
+            foreach(var student in students){
+                allStudents.Students.Add(student);
+            }
+            return Task.FromResult(allStudents);
+        }
     }
 }
