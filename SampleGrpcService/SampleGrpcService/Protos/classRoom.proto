@@ -18,6 +18,15 @@ message StudentRequest {
 	int32 RollNo = 1;
 }
 
+message GetAllStudentsRequest{
+
+}
+
+message AllStudents {
+	repeated Student Students = 1;
+}
+
 service ClassRoom {
 	rpc GetStudentInformation(StudentRequest) returns (Student);
+	rpc GetAllStudents(GetAllStudentsRequest) returns (AllStudents);
 }
