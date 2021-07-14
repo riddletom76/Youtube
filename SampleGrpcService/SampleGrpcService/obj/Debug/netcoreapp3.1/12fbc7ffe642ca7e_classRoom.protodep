@@ -1,2 +1,0 @@
-obj\Debug\netcoreapp3.1/ClassRoom.cs \
-obj\Debug\netcoreapp3.1/ClassRoomGrpc.cs: Protos/classRoom.proto
