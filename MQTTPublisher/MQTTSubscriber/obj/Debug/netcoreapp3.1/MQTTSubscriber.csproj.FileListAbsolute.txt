@@ -1,0 +1,17 @@
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.exe
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.deps.json
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.runtimeconfig.json
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.runtimeconfig.dev.json
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.dll
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTSubscriber.pdb
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.AssemblyInfoInputs.cache
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.AssemblyInfo.cs
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.csproj.CoreCompileInputs.cache
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.csproj.CopyComplete
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.dll
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.pdb
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.genruntimeconfig.cache
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\obj\Debug\netcoreapp3.1\MQTTSubscriber.csproj.AssemblyReference.cache
+D:\P\YouTube\MQTTPublisher\MQTTSubscriber\bin\Debug\netcoreapp3.1\mosquitto.org.crt

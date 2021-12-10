@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MQTTPublisher/1.0.0": {
+        "dependencies": {
+          "MQTTnet": "3.1.0"
+        },
+        "runtime": {
+          "MQTTPublisher.dll": {}
+        }
+      },
+      "MQTTnet/3.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/MQTTnet.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MQTTPublisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DXrYh/QTOKrKmfEnxATJ1Qc0uw3FwU375+2Z2tlKmiNV6Y1zpEwK9zfjKZriQynrZImadIqczRV5Fuw8GO8+Gg==",
+      "path": "mqttnet/3.1.0",
+      "hashPath": "mqttnet.3.1.0.nupkg.sha512"
+    }
+  }
+}

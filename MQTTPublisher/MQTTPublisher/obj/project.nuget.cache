@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWhujxN+ojTY9isK6bcbipVyUeKvdnEnYGZcPbpbQnyxTXtt5oiNBBVGeGxYfb5WGfm491j4Y1jfEVXzfk/SVw==",
+  "success": true,
+  "projectFilePath": "D:\\P\\YouTube\\MQTTPublisher\\MQTTPublisher\\MQTTPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z0049XHY\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z0049XHY\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z0049XHY\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
